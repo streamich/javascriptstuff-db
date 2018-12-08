@@ -11,9 +11,9 @@
     "dotenv": "^4.0.0",
     "fs-extra": "^3.0.1",
     "github": "^9.2.0",
-    "lodash": "^4.17.4",
-    "mocha": "^3.4.2",
-    "request": "^2.81.0"
+    "lodash": "^4.17.5",
+    "mocha": "^3.5.0",
+    "request": "^2.84.0"
   },
   "scripts": {
     "start": "node src/index.js",
