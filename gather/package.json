@@ -10,7 +10,7 @@
     "commander": "^2.11.0",
     "dotenv": "^4.0.0",
     "fs-extra": "^3.0.1",
-    "github": "^9.2.0",
+    "github": "^14.0.0",
     "lodash": "^4.17.4",
     "mocha": "^3.4.2",
     "request": "^2.81.0"
