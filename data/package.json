@@ -6,7 +6,7 @@
   "dependencies": {
     "chai": "^4.1.0",
     "lodash": "^4.17.4",
-    "mocha": "^3.4.2"
+    "mocha": "^6.0.0"
   },
   "scripts": {
     "test": "mocha \"util/**/__tests__/*.js\"",
