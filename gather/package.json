@@ -12,7 +12,7 @@
     "fs-extra": "^3.0.1",
     "github": "^9.2.0",
     "lodash": "^4.17.4",
-    "mocha": "^3.4.2",
+    "mocha": "^6.0.0",
     "request": "^2.81.0"
   },
   "scripts": {
